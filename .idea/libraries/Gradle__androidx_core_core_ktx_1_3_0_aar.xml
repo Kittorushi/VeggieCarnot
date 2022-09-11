@@ -1,11 +1,16 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.core:core-ktx:1.3.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4cd30afccb2ebcf955cd82d2d7823cf8/jetified-core-ktx-1.3.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53573f2646b56c4511278bc3a8817897/jetified-core-ktx-1.3.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa7abdb60c273ec523cc1cf92a148b71/jetified-core-ktx-1.3.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa7abdb60c273ec523cc1cf92a148b71/jetified-core-ktx-1.3.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa7abdb60c273ec523cc1cf92a148b71/jetified-core-ktx-1.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ad31abfa9bb8c1bc65cdb210a958fb7/jetified-core-ktx-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0b8709795198c4c4f997970e3358f81f/jetified-core-ktx-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53573f2646b56c4511278bc3a8817897/jetified-core-ktx-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96abc3fa1e1850be1460d85afbc97da3/jetified-core-ktx-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f599c3c2e77e7c7c45d96e5f609be562/transformed/jetified-core-ktx-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b49b24a5a532f5f3bac511d908c3356/transformed/jetified-core-ktx-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ed410368da286cc5cb51bf525242ca3f/transformed/jetified-core-ktx-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ed410368da286cc5cb51bf525242ca3f/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ed410368da286cc5cb51bf525242ca3f/transformed/jetified-core-ktx-1.3.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
