@@ -8,12 +8,12 @@
         "source": "C:\\Users\\ADMIN\\Downloads\\testing\\kotlin-koin-mvvm-retrofit-coroutines-master\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Downloads\\testing\\kotlin-koin-mvvm-retrofit-coroutines-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ADMIN\\Downloads\\testing\\kotlin-koin-mvvm-retrofit-coroutines-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\Downloads\\testing\\kotlin-koin-mvvm-retrofit-coroutines-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
         "source": "C:\\Users\\ADMIN\\Downloads\\testing\\kotlin-koin-mvvm-retrofit-coroutines-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Downloads\\testing\\kotlin-koin-mvvm-retrofit-coroutines-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\Downloads\\testing\\kotlin-koin-mvvm-retrofit-coroutines-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Downloads\\testing\\kotlin-koin-mvvm-retrofit-coroutines-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",

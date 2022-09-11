@@ -34,6 +34,8 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     }
 
     private fun setupNavigation() {
+
+
         toolbar = findViewById(R.id.toolbar)
         setSupportActionBar(toolbar)
         toolbar.setNavigationIcon(R.drawable.ic_nav_closed_icon)
@@ -69,8 +71,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         drawerLayout.closeDrawers()
         when (menuItem.itemId) {
             //R.id.nav_home -> navController.navigate(R.id.firstFragment)
-            R.id.nav_to_gallery -> navController.navigate(R.id.nav_gallery)
-            R.id.nav_to_slideshow -> navController.navigate(R.id.nav_slideshow)
+
         }
         return true
     }
@@ -86,21 +87,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         win.attributes = winParams
     }
 
-    override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        val inflater: MenuInflater = menuInflater
-        inflater.inflate(R.menu.main, menu)
-        return true
-    }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        return when (item.itemId) {
-            R.id.action_notify -> {
-                val itemNotify =
-                    Snackbar.make(navigationView, "Notification on progress...", Snackbar.LENGTH_SHORT)
-                itemNotify.show()
-                true
-            }
-            else -> super.onOptionsItemSelected(item)
-        }
-    }
+
 }

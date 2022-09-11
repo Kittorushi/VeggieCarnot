@@ -1,4 +1,4 @@
-com.n.android.simpeldesa.debug
+com.veggie.android.simpeldesa.debug
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1516,7 +1516,6 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
-id action_notify
 id action_text
 id actions
 id activity_chooser_view_content
@@ -1651,14 +1650,10 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
 id nav_controller_view_tag
-id nav_gallery
 id nav_home
 id nav_host_fragment
 id nav_host_fragment_container
-id nav_slideshow
-id nav_to_gallery
 id nav_to_home
-id nav_to_slideshow
 id nav_view
 id navigation_header_container
 id never

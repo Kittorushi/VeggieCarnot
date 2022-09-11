@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.ext:junit:1.1.4-alpha07@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc76f944ab655479dfe53598e11b1d13/jetified-junit-1.1.4-alpha07/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/988fb09dedd06d87cef9e329b7815aea/jetified-junit-1.1.4-alpha07/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/988fb09dedd06d87cef9e329b7815aea/jetified-junit-1.1.4-alpha07/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/988fb09dedd06d87cef9e329b7815aea/jetified-junit-1.1.4-alpha07/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.4-alpha07/6722d5a1301aeae8b0fcfdf4bc7c6fe70919fad2/junit-1.1.4-alpha07-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.4-alpha07/5c53fe25999e4e774bab6eef43818044e7497022/junit-1.1.4-alpha07-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
